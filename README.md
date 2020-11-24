@@ -45,3 +45,7 @@
 - SENDGRID: 邮件发送
 
 - Google Workspace: 邮件，数据分析，协同文档等工具。
+
+### 设计工具
+
+- Figma：设计工具
