@@ -1,51 +1,27 @@
 # devstack
 
-### 开发语言及工具
+### Language && Tool
 
-- Go: 大部分内容开发时使用
+- Go: Mostly on the Back-End 
 
-- Swift / Objective-C / CocoaPods: 仅作 Apple 三个平台的应用开发时使用
+- Xcode / Swift / Objective-C / CocoaPods / Sqlite: Apps on Apple platform
 
-- Kotlin: 仅作安卓端应用开发时使用
+- NodeJS / JS / TS / MongoDB / MariaDB / Redis: Front-End, API
 
-- NodeJS / Javascript / Nvm: 网页端，部分接口端开发时使用
+- GitHub / GitHub Actions: Code management, collaborative work, CI/CD
 
-- Xcode: Apple 平台应用开发工具
+- Docker
 
-- Android Studio: 安卓平台应用开发工具
+- AWS SES
 
-- GitHub: 代码管理，协同工作，持续部署工具
+- Sendgrid
 
-- Docker: 容器工具，统一工具
+- Google Workspace
 
-### 数据库
+- Figma
 
-- MongoDB: 偏向动态数据
+### Server Provider && OS
 
-- MariaDB: 偏向冷数据
+- Server Provider: Amazon AWS, Linode
 
-- nDB: 偏向客户端（节点器）的数据，自己写的一个小数据库
-
-- REDIS: 偏向验证数据，寻求及时性
-
-### 服务器
-
-- AWS: 主要服务器的选择
-
-- DigitalOcean: 部分内容存储
-
-### 服务器系统
-
-- Debian: 服务器系统
-
-### 运营工具
-
-- AWS SES: 邮件发送
-
-- SENDGRID: 邮件发送
-
-- Google Workspace: 邮件，数据分析，协同文档等工具。
-
-### 设计工具
-
-- Figma：设计工具
+- OS: Debian
